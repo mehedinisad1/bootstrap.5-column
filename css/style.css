@@ -1,0 +1,20 @@
+.box{
+	margin-bottom: 10px;
+	background: red;
+	height: 100px;
+	
+}
+.column{
+	margin-top: 5px;
+	background: black;
+	border: 2px solid green;
+    height: 100px;
+	
+}
+.p-3{
+	margin-top: 5px;
+	background: black;
+	border: 2px solid green;
+    height: 100px;
+	
+}
